@@ -386,6 +386,7 @@ export default function Index() {
                   {services.map((s) => (
                     <option key={s.title} value={s.title} className="bg-brand-gray">{s.title}</option>
                   ))}
+                  <option value="Другое" className="bg-brand-gray">Другое</option>
                 </select>
               </div>
 
