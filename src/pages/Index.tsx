@@ -459,7 +459,7 @@ export default function Index() {
               {
                 icon: "Clock",
                 title: "Режим работы",
-                lines: ["Пн–Пт: 8:00 – 20:00", "Сб–Вс: 9:00 – 18:00"],
+                lines: ["Пн–Пт: 10:00 – 20:00"],
               },
             ].map((item, i) => (
               <div key={i} className="bg-brand-gray p-10 relative group hover:bg-brand-muted transition-colors duration-300">
