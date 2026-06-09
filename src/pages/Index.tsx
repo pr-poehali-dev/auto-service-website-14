@@ -190,12 +190,7 @@ export default function Index() {
                   <Icon name="ArrowRight" size={18} className="group-hover:translate-x-1 transition-transform" />
                 </span>
               </button>
-              <button
-                onClick={() => scrollTo("services")}
-                className="border border-white/20 text-white font-oswald font-semibold tracking-widest text-base px-10 py-4 skew-x-[-4deg] hover:border-brand-orange hover:text-brand-orange transition-all duration-300"
-              >
-                <span className="inline-block skew-x-[4deg]">УСЛУГИ И ЦЕНЫ</span>
-              </button>
+
             </div>
           </div>
         </div>
