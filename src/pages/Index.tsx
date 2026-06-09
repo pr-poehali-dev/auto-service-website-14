@@ -37,8 +37,8 @@ const services = [
 ];
 
 const stats = [
-  { value: "8 000+", label: "довольных клиентов" },
   { value: "98%", label: "положительных отзывов" },
+  { value: "Эксперты", label: "по немецким автомобилям" },
 ];
 
 export default function Index() {
