@@ -92,7 +92,7 @@ export default function Index() {
               <Icon name="Zap" size={16} className="text-white skew-x-[6deg]" />
             </div>
             <span className="font-oswald text-xl font-bold tracking-wider text-white">
-              АВТО<span className="text-brand-orange">ПРО</span>
+              АВТО<span className="text-brand-orange">AURA</span>
             </span>
           </button>
 
@@ -496,10 +496,10 @@ export default function Index() {
               <Icon name="Zap" size={12} className="text-white skew-x-[6deg]" />
             </div>
             <span className="font-oswald text-base font-bold tracking-wider text-white">
-              АВТО<span className="text-brand-orange">ПРО</span>
+              АВТО<span className="text-brand-orange">AURA</span>
             </span>
           </div>
-          <p className="text-white/30 font-ibm text-sm">© 2024 АвтоПро. Все права защищены.</p>
+          <p className="text-white/30 font-ibm text-sm">© 2024 АвтоАura. Все права защищены.</p>
           <div className="flex gap-6">
             {navLinks.map((link) => (
               <button
