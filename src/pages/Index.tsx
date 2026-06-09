@@ -176,8 +176,8 @@ export default function Index() {
             </h1>
 
             <p className="font-ibm text-white/60 text-lg leading-relaxed mb-10 opacity-0 animate-fade-up" style={{ animationDelay: '0.3s', animationFillMode: 'forwards' }}>
-              Ремонт и техническое обслуживание любых марок автомобилей.
-              Честные цены, гарантия качества, сроки без задержек.
+              Специализируемся на BMW, Mercedes-Benz и Audi.
+              Опытные мастера, честные цены, сроки без задержек.
             </p>
 
             <div className="flex flex-wrap gap-4 opacity-0 animate-fade-up" style={{ animationDelay: '0.45s', animationFillMode: 'forwards' }}>
