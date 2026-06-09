@@ -449,7 +449,7 @@ export default function Index() {
               {
                 icon: "MapPin",
                 title: "Адрес",
-                lines: ["ул. Автозаводская, 14", "Москва, 115280"],
+                lines: ["ул. Рабочая, 189с2", "г. Саранск"],
               },
               {
                 icon: "Phone",
