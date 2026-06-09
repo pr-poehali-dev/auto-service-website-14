@@ -447,7 +447,7 @@ export default function Index() {
               {
                 icon: "Phone",
                 title: "Телефон",
-                lines: ["+7 (495) 000-00-00", "+7 (800) 000-00-00"],
+                lines: ["+7 (929) 748-25-45"],
               },
               {
                 icon: "Clock",
