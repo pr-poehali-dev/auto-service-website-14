@@ -37,9 +37,7 @@ const services = [
 ];
 
 const stats = [
-  { value: "12+", label: "лет на рынке" },
   { value: "8 000+", label: "довольных клиентов" },
-  { value: "30+", label: "мастеров в команде" },
   { value: "98%", label: "положительных отзывов" },
 ];
 
