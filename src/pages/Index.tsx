@@ -241,8 +241,7 @@ export default function Index() {
                 <p className="text-white/50 font-ibm text-sm leading-relaxed mb-6">
                   {s.desc}
                 </p>
-                <div className="flex items-center justify-between">
-                  <span className="text-brand-orange font-oswald font-bold text-lg">{s.price}</span>
+                <div className="flex items-center justify-end">
                   <Icon name="ArrowUpRight" size={18} className="text-white/20 group-hover:text-brand-orange transition-colors" />
                 </div>
               </div>
